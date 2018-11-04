@@ -1,0 +1,10 @@
+c:\users\יוסי\source\repos\PingPong\PingPong\bin\Debug\PingPong.exe.config
+c:\users\יוסי\source\repos\PingPong\PingPong\bin\Debug\PingPong.exe
+c:\users\יוסי\source\repos\PingPong\PingPong\bin\Debug\PingPong.pdb
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.exe
+c:\users\יוסי\source\repos\PingPong\PingPong\obj\Debug\PingPong.pdb
